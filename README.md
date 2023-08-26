@@ -1,23 +1,23 @@
 # Ethereum Block Explorer
-Ethereum block explorer app that uses the Alchemy SDK to perform complex blockchain queries.
 
-https://user-images.githubusercontent.com/49920097/214180027-fa4d1ede-de19-4417-b6d6-66f481753e67.mp4
+The lessons this week covered the Ethereum JSON-RPC API and the ethers.js library giving us the ability to query the Ethereum blockchain and make transactions!
 
+Let's put that knowledge to the test by building our very own Block Explorer!
 
-The lessons this week covered the Ethereum JSON-RPC API and the `ethers.js` library giving us the ability to query the Ethereum blockchain and make transactions!
+With a Block Explorer you can view different information about the blockchain including:
 
-Let's put that knowledge to the test by building our very own **Ethereum Block Explorer**!
+the blockchain network itself
+blocks
+transactions in a block
+accounts
+and many more
 
-Blockexplorers give us the ability to view lots of different information about the blockchain including data about:
-  * the blockchain network itself
-  * blocks in the blockchain
-  * transactions in a block
-  * accounts
-  * and many other things
-  
-[Etherscan](https://etherscan.io/) is a good example of an Ethereum blockexplorer. Check it out to get familiar with how blockexplorers generally work.
+You can look at PolygonScan as a good example of a good block explorer. Why? We'll be deploying our contracts to the Polygon testnet and is faster than the Ethereum mainnet or testnet. But smartcontracts works in exactly the same way! 
 
-This particular project is very much open-ended. We'll add some challenges here to get your imagination going, but use Etherscan as a guide for features you might consider building in your project.
+Learn more about Polygon (https://cointelegraph.com/learn/polygon-blockchain-explained-a-beginners-guide-to-matic)
+
+### Tips:
+* Clone the starter project to get started.
 
 ## Getting Started
 
